@@ -756,6 +756,10 @@ main {
     margin-bottom: 8px;
 }
 
+.user-comment-cnt {
+    margin-bottom: 16px;
+}
+
 .form-user-label {
     display: block;
     margin-bottom: 4px;
